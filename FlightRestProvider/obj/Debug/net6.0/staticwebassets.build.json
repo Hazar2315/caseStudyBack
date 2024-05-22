@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n0RYWzA1fFkBFLeUIuJFLCnkUrspIXNvto3sm/KkqiM=",
+  "Source": "FlightRestProvider",
+  "BasePath": "_content/FlightRestProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

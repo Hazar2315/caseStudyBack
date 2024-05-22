@@ -1,0 +1,12 @@
+C:\Users\hazar\source\repos\SoapExternalService\bin\Debug\net6.0\SoapExternalService.deps.json
+C:\Users\hazar\source\repos\SoapExternalService\bin\Debug\net6.0\SoapExternalService.dll
+C:\Users\hazar\source\repos\SoapExternalService\bin\Debug\net6.0\SoapExternalService.pdb
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\SoapExternalService.csproj.AssemblyReference.cache
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\SoapExternalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\SoapExternalService.AssemblyInfoInputs.cache
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\SoapExternalService.AssemblyInfo.cs
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\SoapExternalService.csproj.CoreCompileInputs.cache
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\SoapExternalService.dll
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\refint\SoapExternalService.dll
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\SoapExternalService.pdb
+C:\Users\hazar\source\repos\SoapExternalService\obj\Debug\net6.0\ref\SoapExternalService.dll
